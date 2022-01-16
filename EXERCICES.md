@@ -29,7 +29,9 @@ L'objectif de ce module est de vous familiariser avec l'utilisation de Git et Gi
 
 ![Lien vers votre dépôt](img/attente_depot_cree.png)
 
-## Exercice 2 - Ouvrir le travail dans Visual Studio
+## Exercice 2 - Ouvrir le travail dans Visual Studio - Machine virtuelle
+
+Cet exercice s'effectue à partir de votre machine virtuelle.
 
 - Naviguez l'URL de votre dépôt de travail
 
@@ -96,5 +98,9 @@ L'objectif de ce module est de vous familiariser avec l'utilisation de Git et Gi
 **Si vous êtes arrivé ici, bravo ! Vous avez fait votre première modification sur votre dépôt de travail !**
 
 Sans le savoir vous avez réalisé plusieurs actions dans Git : clone, add, commit, pull, push qui seront détaillées durant votre parcours de formation.
+
+## Exercice 3 - Ouvrir le travail dans Visual Studio - Machine personnelle
+
+- Refaite les manipulations de l'exercice précédent à partir de votre ordinateur personnel en partant directement de l'étape de "Clonage du dépôt de travail" à "Synchronisation du dépôt de travail" : la modification du fichier README est de simplement cocher la case "Votre ordinateur personnel"
 
 [Retour à la page principale](README.md)
