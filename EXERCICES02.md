@@ -14,7 +14,8 @@ L'objectif de ce module est de consolider ce que vous avez fait dans l'exercice 
 ## Exercice 1 - Accepter votre devoir distribué sur GitHub classroom
 
 - Naviguez l'URL : [https://classroom.github.com/a/ydkMtJFl](https://classroom.github.com/a/ydkMtJFl)
-- Référez-vous aux [exercices précédents](EXERCICES01.md)
+- Acceptez le travail proposé en cliquant sur "Accept this assignment"
+- Si vous voulez des instructions plus détaillées, référez-vous aux [exercices précédents](EXERCICES01.md). N'hésitez pas à demander de l'aide !
 
 ## Exercice 2 - Ouvrir le travail dans Visual Studio
 
@@ -22,9 +23,11 @@ Cet exercice s'effectue à partir de votre machine virtuelle ou à partir de vot
 
 - Naviguez l'URL de votre dépôt de travail
 - Copiez le lien de votre dépôt : cliquez le bouton "Code" puis sur les deux carrés à côté du lien
+- Fermez toute les fenêtres de "Visual Studio 2022" si ce n'est pas déjà fait
 - Lancez "Visual Studio 2022"
 - Cliquez sur le "Clone un dépôt"
-- Collez le lien de votre dépôt dans la zone de texte "URL du dépôt" et cliquez sur "Cloner" (si vous avez perdu le lien, vous pouvez le récupérer en retournant sur le site web de Git Hub et en sélectionnant votre dépôt)
+- Collez le lien de votre dépôt dans la zone de texte "Emplacement du dépôt" et cliquez sur "Cloner" (si vous avez perdu le lien, vous pouvez le récupérer en retournant sur le site web de Git Hub et en sélectionnant votre dépôt)
+- Si l'onglet "Explorateur de solutions" n'est pas affiché, cliquez sur "Explorateur de solutions" pour l'afficher
 - Faites un double clic sur le dossier affiché. Le contenu va s'afficher
 - Ouvrez le répertoire "PremierProgramme"
 - Faites un double clic sur le fichier "PremierProgramme.sln"
