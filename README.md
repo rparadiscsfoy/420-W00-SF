@@ -11,6 +11,7 @@ Suivez les étapes suivantes en cliquant sur les liens (chaque page permet de re
 - [Installation des logiciels](LOGICIELS.md) :
   - À la fin de l'installation de Visual Studio, vous serez amené à vous authentifier pour configurer votre licence Visual studio. Suivez la procédure [connexion à Visual Studio](CONNEXTION_VS.md) au moment opportun de votre laboratoire
 - [Création d'un compte GitHub et Configurer votre client Git](CONFIG_GIT.md)
-- [Exercices de base sur Git et Visual Studio](EXERCICES.md)
+- [Premiers exercices sur Git et Visual Studio](EXERCICES01.md)
+- [Maintenant on code avec Visual Studio sur un vrai projet, on pousse sur Git et on valide que tout marche !](EXERCICES02.md)
 
 C'est fini pour ce laboratoire ! Merci d'avoir participé à ce cours !
