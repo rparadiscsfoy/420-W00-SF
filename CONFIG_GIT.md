@@ -31,11 +31,24 @@ Les objectifs de cette étape sont :
 
 ![Lancement application Windows Terminal](./img/vm_Windows_Terminal.png)
 
-- Tapez les commandes suivantes en utilisant l'adresse courriel que vous avez utilisée pour créer votre compte GitHub :
+- Tapez les commandes suivantes en utilisant l'adresse courriel que vous avez utilisée pour créer votre compte GitHub (Remplacez <Prénom> par votre prénom, etc. (donc enlevez les <>)) :
 
 ```bash
 git config --global user.name "<Prénom> <Nom>"
 git config --global user.email "<adresse_courriel>"
+```
+
+Exemple :
+
+```bash
+git config --global user.name "Pierre-François Léon"
+git config --global user.email "pfleon@unfauxdomaine.com"
+```
+
+- Tapez les commandes suivantes pour changer l'éditeur par défaut de utilisé par git qui est vi (croyez-moi, vous ne voulez pas débuter avec cet éditeur, même s'il est très très pratique) pour Visual Code :
+
+```bash
+git config --global core.editor "code --wait"
 ```
 
 - Validez que vous avez bien configuré votre client git avec la commande ```git config --list```. Si les informations sont incorrectes, vous devrez les corriger en retapant les commandes précédentes.
