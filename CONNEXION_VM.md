@@ -1,6 +1,6 @@
 # Connexion à la machine virtuelle de la formation continue du Cégep de Sainte-Foy
 
-- Naviguez l'URL : https://vcenterdfc.csfoy.qc.ca
+- Naviguez l'URL : https://vcenterdfc.csfoy.ca
 - Si un message d'erreur s'affiche disant que le site n'est pas sécuritaire, ignorez le message et continuez.
 - Choisissez l'option "Lancer VSPHERE Client (HTML5)" 
 
