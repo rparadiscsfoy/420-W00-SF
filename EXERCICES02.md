@@ -13,7 +13,7 @@ L'objectif de ce module est de consolider ce que vous avez fait dans l'exercice 
 
 ## Exercice 1 - Accepter votre devoir distribué sur GitHub classroom
 
-- Naviguez l'URL : [https://classroom.github.com/a/ydkMtJFl](https://classroom.github.com/a/ydkMtJFl)
+- Naviguez l'URL : [https://classroom.github.com/a/8vDLPSVt](https://classroom.github.com/a/8vDLPSVt)
 - Acceptez le travail proposé en cliquant sur "Accept this assignment"
 - Si vous voulez des instructions plus détaillées, référez-vous aux [exercices précédents](EXERCICES01.md). N'hésitez pas à demander de l'aide !
 
