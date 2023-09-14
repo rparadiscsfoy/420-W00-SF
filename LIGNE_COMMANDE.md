@@ -1,6 +1,6 @@
 # Ouverture d'une ligne de commande
 
-- Faite un clic droit sur le menu "Windows" et choisissez "Exécuter" ou appuyez sur la combinaison de touches "[Win] + R"
+- Faites un clic droit sur le menu "Windows" et choisissez "Exécuter" ou appuyez sur la combinaison de touches "[Win] + R"
 
 ![Lancer le programme exécuter](img/cmd_menu_executer.png)
 
