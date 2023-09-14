@@ -2,7 +2,7 @@
 
 - Si Visual Studio vous propose de vous connecter, cliquez sur le bouton "Se connecter"
 
-![Connexion à votre compte Visual Studio](img/vs_installation_connexion.png)
+![Connexion à votre compte Visual Studio](img/vs_installation_connexion.PNG)
 
 - Entrez votre nom d'utilisateur du Cégep de Sainte-Foy sous la forme <numéroMatricule>@csfoy.ca :
 
