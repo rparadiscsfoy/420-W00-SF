@@ -54,8 +54,8 @@ Nous supposons ici que votre machine personnelle est/a :
 
 ![Site dotnet](img/dotnet_site_01.png)
 
-- Validez que le site affiche bien la version 6.0.
-- Choisissez le lien "Download .NET SDK x64" (notez que la version proposée est aussi la version LTS)
+- Repérez la version "Long Term Support" 6.0
+- Choisissez le lien ".NET SDK x64"
 
 ![Choix de la version de l'installateur](img/dotnet_site_02.PNG)
 
