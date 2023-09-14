@@ -22,7 +22,7 @@ Nous supposons ici que votre machine personnelle est/a :
 - Naviguez le site [https://git-scm.com](https://git-scm.com)
 - Cliquez sur le bouton "Download for Windows"
 
-![Site Git](img/git_site_01.png)
+![Site Git ](img/git_site_01.png)
 
 - Téléchargez le logiciel Git en choisissant la version correspondant à votre machine, normalement la version 64 bits.
 
