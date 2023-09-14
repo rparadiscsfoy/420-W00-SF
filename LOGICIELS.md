@@ -95,6 +95,6 @@ Nous supposons ici que votre machine personnelle est/a :
 ![Choix des modules à installer](img/vs_installation_choix_modules.png)
 
 - Cliquez sur le bouton "Installer"
-- N'attendez pas la fin de l'installation (plusieurs dizaines minutes suivant votre configuration matérielle et réseau !) pour continuer les exercices en retournant sur la page principale des exercices.
+- N'attendez pas la fin de l'installation (Peut prendre plusieurs dizaines de minutes dépendant de votre configuration matérielle et réseau!) pour continuer les exercices. Appuyez le lien ci-dessous pour retourner à la page principale des exercices.
 
 [Retour à la page principale](README.md)
