@@ -39,7 +39,7 @@ Nous supposons ici que votre machine personnelle est/a :
 - Naviguez le site [https://nodejs.org](https://nodejs.org)
 - Choisissez le lien qui permet de télécharger la version LTS (Long Term Support) de Node.js.
 
-![Site Node.js et choix de la version LTS](img/node_site)
+![Site Node.js et choix de la version LTS](img/node_site_01.png)
 
 - Lancez le programme d'installation que vous venez de télécharger
 - Suivez les instructions et optez pour les valeurs par défaut
