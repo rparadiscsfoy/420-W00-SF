@@ -22,7 +22,7 @@ Nous supposons ici que votre machine personnelle est/a :
 - Naviguez le site [https://git-scm.com](https://git-scm.com)
 - Cliquez sur le bouton "Download for Windows"
 
-![Site Git](img/git_site_01.png)
+![Site Git ](img/git_site_01.png)
 
 - Téléchargez le logiciel Git en choisissant la version correspondant à votre machine, normalement la version 64 bits.
 
@@ -54,10 +54,10 @@ Nous supposons ici que votre machine personnelle est/a :
 
 ![Site dotnet](img/dotnet_site_01.png)
 
-- Validez que le site affiche bien la version 6.0.
-- Choisissez le lien "Download .NET SDK x64" (notez que la version proposée est aussi la version LTS)
+- Repérez la version "Long Term Support" 6.0
+- Choisissez le lien ".NET SDK x64"
 
-![Choix de la version de l'installateur](img/dotnet_site_02.png)
+![Choix de la version de l'installateur](img/dotnet_site_02.PNG)
 
 - Lancez le programme d'installation que vous venez de télécharger.
 - Suivez les instructions et optez pour les valeurs par défaut
@@ -95,6 +95,6 @@ Nous supposons ici que votre machine personnelle est/a :
 ![Choix des modules à installer](img/vs_installation_choix_modules.png)
 
 - Cliquez sur le bouton "Installer"
-- N'attendez pas la fin de l'installation (plusieurs dizaines minutes suivant votre configuration matérielle et réseau !) pour continuer les exercices en retournant sur la page principale des exercices.
+- N'attendez pas la fin de l'installation (Peut prendre plusieurs dizaines de minutes dépendant de votre configuration matérielle et réseau!) pour continuer les exercices. Appuyez le lien ci-dessous pour retourner à la page principale des exercices.
 
 [Retour à la page principale](README.md)
