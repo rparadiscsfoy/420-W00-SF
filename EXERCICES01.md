@@ -12,7 +12,7 @@ L'objectif de ce module est de vous familiariser avec l'utilisation de Git et Gi
 
 ## Exercice 1 - Accepter votre premier devoir distribué sur GitHub classroom
 
-- Naviguez l'URL : [https://classroom.github.com/a/Kbu5Vc6N](https://classroom.github.com/a/Kbu5Vc6N) ou allez sur le dépôt [https://github.com/PiFou86/040-000-03-PremierDepot](https://github.com/PiFou86/040-000-03-PremierDepot) et cliquez sur l'option "Fork" qui se situe en haut à droite
+- Naviguez l'URL : [https://classroom.github.com/a/KNVq_UIp](https://classroom.github.com/a/KNVq_UIp) ou allez sur le dépôt [https://github.com/PiFou86/040-000-03-PremierDepot](https://github.com/PiFou86/040-000-03-PremierDepot) et cliquez sur l'option "Fork" qui se situe en haut à droite
 - À votre première connexion, GitHub Classroom va vous demander l'autorisation d'accéder à votre compte GitHub : cliquez sur "Authorize GitHub Classroom". Si vous n'étiez pas authentifié, il faudra préalablement vous connecter à votre compte GitHub.
 
 ![Authoriser GitHub Classroom à utiliser votre compte GitHub](img/autoriser_auth_github_githubclassroom.png)
