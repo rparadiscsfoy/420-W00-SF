@@ -11,13 +11,13 @@ L'objectif de ce module est de consolider ce que vous avez fait dans l'exercice 
 - Avoir installé Visual Studio sur votre ordinateur
 - Avoir effectué [les exercices précédents](EXERCICES01.md)
 
-## Exercice 1 - Accepter votre devoir distribué sur GitHub classroom
+## Exercice 2.1 - Accepter votre devoir distribué sur GitHub classroom
 
 - Naviguez l'URL : [https://classroom.github.com/a/MU6b4fOo](https://classroom.github.com/a/MU6b4fOo) ou naviguez directement le dépôt suivant : [https://github.com/PiFou86/040-000-03-PremierCodeCSharp](https://github.com/PiFou86/040-000-03-PremierCodeCSharp) et choisissez l'option "Fork".
 - Acceptez le travail proposé en cliquant sur "Accept this assignment"
 - Si vous voulez des instructions plus détaillées, référez-vous aux [exercices précédents](EXERCICES01.md). N'hésitez pas à demander de l'aide !
 
-## Exercice 2 - Ouvrir le travail dans Visual Studio
+## Exercice 2.2 - Ouvrir le travail dans Visual Studio
 
 Cet exercice s'effectue à partir de votre machine virtuelle ou à partir de votre ordinateur personnel.
 
