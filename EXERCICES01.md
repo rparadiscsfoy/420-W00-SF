@@ -1,4 +1,4 @@
-# Premiers exercices sur Git et Visual Studio
+# Exercice 1 - Premiers exercices sur Git et Visual Studio
 
 ## Objectif
 
