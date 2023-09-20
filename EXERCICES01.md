@@ -10,7 +10,7 @@ L'objectif de ce module est de vous familiariser avec l'utilisation de Git et Gi
 - Avoir configuré votre client Git sur la machine virtuelle et sur votre ordinateur
 - Avoir installé Visual Studio sur votre ordinateur
 
-## Exercice 1 - Accepter votre premier devoir distribué sur GitHub classroom
+## Exercice 1.1 - Accepter votre premier devoir distribué sur GitHub classroom
 
 - Naviguez l'URL : [https://classroom.github.com/a/KNVq_UIp](https://classroom.github.com/a/KNVq_UIp) ou allez sur le dépôt [https://github.com/PiFou86/040-000-03-PremierDepot](https://github.com/PiFou86/040-000-03-PremierDepot) et cliquez sur l'option "Fork" qui se situe en haut à droite
 - À votre première connexion, GitHub Classroom va vous demander l'autorisation d'accéder à votre compte GitHub : cliquez sur "Authorize GitHub Classroom". Si vous n'étiez pas authentifié, il faudra préalablement vous connecter à votre compte GitHub.
@@ -29,7 +29,7 @@ L'objectif de ce module est de vous familiariser avec l'utilisation de Git et Gi
 
 ![Lien vers votre dépôt](img/attente_depot_cree.png)
 
-## Exercice 2 - Ouvrir le travail dans Visual Studio - Machine virtuelle
+## Exercice 1.2 - Ouvrir le travail dans Visual Studio - Machine virtuelle
 
 Cet exercice s'effectue à partir de votre machine virtuelle.
 
@@ -99,11 +99,11 @@ Cet exercice s'effectue à partir de votre machine virtuelle.
 
 Sans le savoir vous avez réalisé plusieurs actions dans Git : clone, add, commit, pull, push qui seront détaillées durant votre parcours de formation.
 
-## Exercice 3 - Ouvrir le travail dans Visual Studio - Machine personnelle
+## Exercice 1.3 - Ouvrir le travail dans Visual Studio - Machine personnelle
 
 - Refaite les manipulations de l'exercice précédent à partir de votre ordinateur personnel en partant directement de l'étape de "Clonage du dépôt de travail" à "Synchronisation du dépôt de travail" : la modification du fichier README est de simplement cocher la case "Votre ordinateur personnel"
 
-## Exercice 4 - Valider votre travail
+## Exercice 1.4 - Valider votre travail
 
 - Rendez-vous sur le site web de GitHub et rendez-vous sur la page de votre dépôt de travail
 - Rendez-vous sur l'onglet "Actions"
