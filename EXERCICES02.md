@@ -1,4 +1,4 @@
-# Maintenant on code avec Visual Studio sur un vrai projet, on pousse sur Git et on valide que tout marche !
+# Exercice 2 - Maintenant on code avec Visual Studio sur un vrai projet, on pousse sur Git et on valide que tout marche !
 
 ## Objectif
 
