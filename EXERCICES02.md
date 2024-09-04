@@ -7,19 +7,17 @@ L'objectif de ce module est de consolider ce que vous avez fait dans l'exercice 
 ## Pré-requis
 
 - Avoir installé Git sur votre ordinateur
-- Avoir configuré votre client Git sur la machine virtuelle et sur votre ordinateur
+- Avoir configuré votre client Git sur votre ordinateur
 - Avoir installé Visual Studio sur votre ordinateur
 - Avoir effectué [les exercices précédents](EXERCICES01.md)
 
 ## Exercice 2.1 - Accepter votre devoir distribué sur GitHub classroom
 
-- Naviguez l'URL : [https://classroom.github.com/a/MU6b4fOo](https://classroom.github.com/a/MU6b4fOo) ou naviguez directement le dépôt suivant : [https://github.com/PiFou86/040-000-03-PremierCodeCSharp](https://github.com/PiFou86/040-000-03-PremierCodeCSharp) et choisissez l'option "Fork".
+- Naviguez l'URL : [https://classroom.github.com/a/26gde675](https://classroom.github.com/a/26gde675)
 - Acceptez le travail proposé en cliquant sur "Accept this assignment"
 - Si vous voulez des instructions plus détaillées, référez-vous aux [exercices précédents](EXERCICES01.md). N'hésitez pas à demander de l'aide !
 
 ## Exercice 2.2 - Ouvrir le travail dans Visual Studio
-
-Cet exercice s'effectue à partir de votre machine virtuelle ou à partir de votre ordinateur personnel.
 
 - Naviguez l'URL de votre dépôt de travail
 - Copiez le lien de votre dépôt : cliquez le bouton "Code" puis sur les deux carrés à côté du lien
@@ -31,7 +29,7 @@ Cet exercice s'effectue à partir de votre machine virtuelle ou à partir de vot
 - Faites un double clic sur le dossier affiché. Le contenu va s'afficher
 - Ouvrez le répertoire "PremierProgramme"
 - Faites un double clic sur le fichier "PremierProgramme.sln"
-- Faites l'exercice proposé dans le fichier "README.md". Je vous conseille de lire ce fichie à partir de votre navigateur web à partir de votre dépôt sur le site de GitHub.
+- Faites l'exercice proposé dans le fichier "README.md". Je vous conseille de lire ce fichier à partir de votre navigateur web à partir de votre dépôt sur le site de GitHub.
 
 **Si vous êtes arrivé ici, bravo ! Vous avez fait des modifications à votre travail et vous avez utilisé des tests automatisés afin d'effectuer une première validation sur votre travail ! Pour les autres validations n'oubliez pas d'impliquer votre enseignant !**
 
