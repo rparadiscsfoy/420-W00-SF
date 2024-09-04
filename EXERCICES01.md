@@ -7,12 +7,12 @@ L'objectif de ce module est de vous familiariser avec l'utilisation de Git et Gi
 ## Pré-requis
 
 - Avoir installé Git sur votre ordinateur
-- Avoir configuré votre client Git sur la machine virtuelle et sur votre ordinateur
+- Avoir configuré votre client Git sur votre ordinateur
 - Avoir installé Visual Studio sur votre ordinateur
 
 ## Exercice 1.1 - Accepter votre premier devoir distribué sur GitHub classroom
 
-- Naviguez l'URL : [https://classroom.github.com/a/KNVq_UIp](https://classroom.github.com/a/KNVq_UIp) ou allez sur le dépôt [https://github.com/PiFou86/040-000-03-PremierDepot](https://github.com/PiFou86/040-000-03-PremierDepot) et cliquez sur l'option "Fork" qui se situe en haut à droite
+- Naviguez l'URL : [https://classroom.github.com/a/UR43Pm_T](https://classroom.github.com/a/UR43Pm_T) et cliquez sur l'option "Fork" qui se situe en haut à droite
 - À votre première connexion, GitHub Classroom va vous demander l'autorisation d'accéder à votre compte GitHub : cliquez sur "Authorize GitHub Classroom". Si vous n'étiez pas authentifié, il faudra préalablement vous connecter à votre compte GitHub.
 
 ![Authoriser GitHub Classroom à utiliser votre compte GitHub](img/autoriser_auth_github_githubclassroom.png)
@@ -29,9 +29,7 @@ L'objectif de ce module est de vous familiariser avec l'utilisation de Git et Gi
 
 ![Lien vers votre dépôt](img/attente_depot_cree.png)
 
-## Exercice 1.2 - Ouvrir le travail dans Visual Studio - Machine virtuelle
-
-Cet exercice s'effectue à partir de votre machine virtuelle.
+## Exercice 1.2 - Ouvrir le travail dans Visual Studio
 
 - Naviguez l'URL de votre dépôt de travail
 
@@ -41,7 +39,7 @@ Cet exercice s'effectue à partir de votre machine virtuelle.
 
 ![Copie du lien de votre dépot personnel](./img/adresse_depot.png)
 
-- Sur votre VM, lancez "Visual Studio 2022" en cliquant sur le bouton infini mauve/violet (pas le bleu !)
+- Lancez "Visual Studio 2022" en cliquant sur le bouton infini mauve/violet (pas le bleu !)
 
 ![Visual Studio](./img/icon_VS2022.png)
 
@@ -98,10 +96,6 @@ Cet exercice s'effectue à partir de votre machine virtuelle.
 **Si vous êtes arrivé ici, bravo ! Vous avez fait votre première modification sur votre dépôt de travail !**
 
 Sans le savoir vous avez réalisé plusieurs actions dans Git : clone, add, commit, pull, push qui seront détaillées durant votre parcours de formation.
-
-## Exercice 1.3 - Ouvrir le travail dans Visual Studio - Machine personnelle
-
-- Refaite les manipulations de l'exercice précédent à partir de votre ordinateur personnel en partant directement de l'étape de "Clonage du dépôt de travail" à "Synchronisation du dépôt de travail" : la modification du fichier README est de simplement cocher la case "Votre ordinateur personnel"
 
 ## Exercice 1.4 - Valider votre travail
 
