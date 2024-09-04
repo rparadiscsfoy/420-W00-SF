@@ -5,7 +5,7 @@
 Les objectifs de cette étape sont :
 
 - De vous créer un compte sur le site [GitHub](https://github.com)
-- De configurer votre client Git aussi bien sur votre machine virtuelle (VM) que votre machine personnelle.
+- De configurer votre client Git sur votre machine personnelle
 
 ## Exercice 1 - Création de votre compte GitHub
 
@@ -24,9 +24,8 @@ Les objectifs de cette étape sont :
   - Cliquez sur "Skip personalization"
 - Vous êtes maintenant inscrit ! Bienvenue sur GitHub !
 
-## Exercice 2 - Configurez votre client Git sur votre machine virtuelle
+## Exercice 2 - Configurez votre client Git
 
-- Connectez-vous à votre machine virtuelle. Si vous ne savez plus comment faire, [consultez cette page](CONNEXION_VM.md).
 - [Lancez un invite de commande](LIGNE_COMMANDE.md) ou l'application "Windows Terminal"
 
 ![Lancement application Windows Terminal](./img/vm_Windows_Terminal.png)
@@ -55,10 +54,3 @@ git config --global core.editor "code --wait"
 
 ![Validation de la configuration](img/vm_configuration_git.png)
 
-**Un fois que vous aurez installé les logiciels de développement sur votre machine personnelle, cette partie, "Configurez votre client Git", sera à refaire.**
-
-## Exercice 3 - Configurez votre client Git sur votre machine personnelle
-
-- Refaite les mêmes étapes que précédemment, mais sur votre machine personnelle.
-
-[Retour à la page principale](README.md)
