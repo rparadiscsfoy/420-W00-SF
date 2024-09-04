@@ -6,13 +6,13 @@ L'objectif de cette partie est d'installer les outils suivants sur votre machine
 
 - Git
 - Node.js
-- Dotnet 6.0
+- Dotnet 8.0
 - Visual Studio Code
 - Visual Studio 2022
 
 Nous supposons ici que votre machine personnelle est/a :
 
-- Un PC tournant sous Windows 10
+- Un PC tournant sous Windows 10/11
 - Un minimum de 8Go de mémoire vive
 - Un minimum de 40Go d'espace disque libre
 - Les outils ne sont pas pré-installés
