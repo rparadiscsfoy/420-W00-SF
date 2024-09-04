@@ -47,23 +47,24 @@ Nous supposons ici que votre machine personnelle est/a :
 
 ![Validation installation Node.js](img/node_installation_validation.png)
 
-## Exercice 3 - Installation de Dotnet 6.0
+## Exercice 3 - Installation de Dotnet 8.0
 
 - Naviguez le site [https://dotnet.microsoft.com](https://dotnet.microsoft.com)
 - Cliquez sur le bouton "Download"
 
-![Site dotnet](img/dotnet_site_01.png)
+![Site dotnet](https://github.com/user-attachments/assets/dbc3bf69-7cba-4766-858f-847189b7e542)
 
-- Repérez la version "Long Term Support" 6.0
+
+- Repérez la version "Long Term Support" 8.0
 - Choisissez le lien ".NET SDK x64"
 
-![Choix de la version de l'installateur](img/dotnet_site_02.PNG)
+![image](https://github.com/user-attachments/assets/33321c55-8ec7-44f6-8144-5f54ba5b273e)
 
 - Lancez le programme d'installation que vous venez de télécharger.
 - Suivez les instructions et optez pour les valeurs par défaut
 - Une fois l'installation terminée, [Ouvrez un invite de commande](LIGNE_COMMANDE.md) et validez qu'en tapant ```dotnet --version``` vous obtenez la version de dotnet installée (la version peut varier) :
 
-![Validation installation dotnet 6.0](img/dotnet_installation_validation.png)
+![Version .Net](https://github.com/user-attachments/assets/d02e820c-c227-4ded-905e-cfc6011a5272)
 
 ## Exercice 4 - Installation de Visual Studio Code
 
