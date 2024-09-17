@@ -13,9 +13,18 @@ L'objectif de cette partie est d'installer les outils suivants sur votre machine
 Nous supposons ici que votre machine personnelle est/a :
 
 - Un PC tournant sous Windows 10/11
-- Un minimum de 8Go de mémoire vive
+- Un minimum de 16Go de mémoire vive
 - Un minimum de 40Go d'espace disque libre
 - Les outils ne sont pas pré-installés
+
+## Winget - Installation rapide
+**Si vous désirez installer les logiciels à l'aide des installateurs conventionnels, ignorez ce chapitre.**
+
+Windows est désormais distribué avec le gestionnaire de packages [Winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/#use-winget). Cet outil permet de [rechercher, installer et mettre à jour](https://learn.microsoft.com/en-us/windows/package-manager/winget/#commands) les logiciels sur votre ordinateur. [Ouvrez un invite de commande](LIGNE_COMMANDE.md) et collez cette ligne :
+```bash
+winget install Git.Git OpenJS.NodeJS.LTS Microsoft.DotNet.SDK.8 Microsoft.VisualStudioCode Microsoft.VisualStudio.2022.Community
+```
+Une fois l'installation de Visual Studio 2022 lancée, rendez-vous à [cette section du tutoriel](#details-installation-vs).
 
 ## Exercice 1 - Installation de Git
 
@@ -39,7 +48,7 @@ Nous supposons ici que votre machine personnelle est/a :
 - Naviguez le site [https://nodejs.org](https://nodejs.org)
 - Choisissez le lien qui permet de télécharger la version LTS (Long Term Support) de Node.js.
 
-![Site Node.js et choix de la version LTS](https://github.com/user-attachments/assets/b3aad552-2477-46a1-9980-f344a12d4eee)
+![Site Node.js et choix de la version LTS](img/node_site_01.png)
 
 - Lancez le programme d'installation que vous venez de télécharger
 - Suivez les instructions et optez pour les valeurs par défaut
@@ -52,19 +61,19 @@ Nous supposons ici que votre machine personnelle est/a :
 - Naviguez le site [https://dotnet.microsoft.com](https://dotnet.microsoft.com)
 - Cliquez sur le bouton "Download"
 
-![Site dotnet](https://github.com/user-attachments/assets/dbc3bf69-7cba-4766-858f-847189b7e542)
+![Site dotnet](img/dotnet_site_01.png)
 
 
 - Repérez la version "Long Term Support" 8.0
 - Choisissez le lien ".NET SDK x64"
 
-![image](https://github.com/user-attachments/assets/33321c55-8ec7-44f6-8144-5f54ba5b273e)
+![image](img/dotnet_site_02.PNG)
 
 - Lancez le programme d'installation que vous venez de télécharger.
 - Suivez les instructions et optez pour les valeurs par défaut
 - Une fois l'installation terminée, [Ouvrez un invite de commande](LIGNE_COMMANDE.md) et validez qu'en tapant ```dotnet --version``` vous obtenez la version de dotnet installée (la version peut varier) :
 
-![Version .Net](https://github.com/user-attachments/assets/d02e820c-c227-4ded-905e-cfc6011a5272)
+![Version .Net](img/dotnet_installation_validation.png)
 
 ## Exercice 4 - Installation de Visual Studio Code
 
@@ -81,17 +90,19 @@ Nous supposons ici que votre machine personnelle est/a :
 
 ## Exercice 5 - Installation de Visual Studio 2022
 
-- Naviguez le site [https://visualstudio.microsoft.com](https://visualstudio.microsoft.com)
-- Cherchez le bouton "Télécharger Visual Studio" et choisissez l'option "Community 2022".
+- Naviguez le site [https://visualstudio.microsoft.com/fr/downloads/](https://visualstudio.microsoft.com/fr/downloads/)
+- Cherchez la colonne "Communauté" et cliquez sur le bouton "Téléchargement gratuit".
 
 ![Site Visual Studio](img/vs_site_01.png)
 
 - Lancez le programme d'installation que vous venez de télécharger.
 - Suivez les instructions jusqu'à arriver à la fenêtre des "Détails de l'installation"
-- Dans cette fenêtre, cochez les options suivantes :
-  - Développement web et ASP.NET
-  - Développement Node.js
-  - Développement .NET Desktop
+
+### <a name="details-installation-vs">Détails de l'installation</a>
+Dans cette fenêtre, cochez les options suivantes :
+- Développement web et ASP.NET
+- Développement Node.js
+- Développement .NET Desktop
 
 ![Choix des modules à installer](img/vs_installation_choix_modules.png)
 
