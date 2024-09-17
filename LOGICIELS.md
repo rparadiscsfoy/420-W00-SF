@@ -9,6 +9,7 @@ L'objectif de cette partie est d'installer les outils suivants sur votre machine
 - Dotnet 8.0
 - Visual Studio Code
 - Visual Studio 2022
+- DevToys
 
 Nous supposons ici que votre machine personnelle est/a :
 
@@ -22,7 +23,7 @@ Nous supposons ici que votre machine personnelle est/a :
 
 Windows est désormais distribué avec le gestionnaire de packages [Winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/#use-winget). Cet outil permet de [rechercher, installer et mettre à jour](https://learn.microsoft.com/en-us/windows/package-manager/winget/#commands) les logiciels sur votre ordinateur. [Ouvrez un invite de commande](LIGNE_COMMANDE.md) et collez cette ligne :
 ```bash
-winget install Git.Git OpenJS.NodeJS.LTS Microsoft.DotNet.SDK.8 Microsoft.VisualStudioCode Microsoft.VisualStudio.2022.Community
+winget install Git.Git OpenJS.NodeJS.LTS Microsoft.DotNet.SDK.8 Microsoft.VisualStudioCode Microsoft.VisualStudio.2022.Community DevToys-app.DevToys
 ```
 Une fois l'installation de Visual Studio 2022 lancée, rendez-vous à [cette section du tutoriel](#details-installation-vs).
 
@@ -108,5 +109,17 @@ Dans cette fenêtre, cochez les options suivantes :
 
 - Cliquez sur le bouton "Installer"
 - N'attendez pas la fin de l'installation (Peut prendre plusieurs dizaines de minutes dépendant de votre configuration matérielle et réseau!) pour continuer les exercices. Appuyez le lien ci-dessous pour retourner à la page principale des exercices.
+
+## Exercice 6 - Installation de DevToys
+
+Qu'est-ce que DevToys ? Il s'agit d'un outil destiné aux développeurs et aux professionnels de la technologie, conçu pour simplifier des tâches courantes liées au développement. Il regroupe plusieurs utilitaires en une seule application, comme un encodeur/décodeur de base64, un générateur de hash (MD5, SHA), un formatteur de JSON, un convertisseur d'unités, et bien plus encore. DevToys permet d'éviter l'utilisation de plusieurs outils en ligne en offrant une interface pratique et rapide pour des tâches fréquentes dans le développement logiciel. En d'autres mots, c'est un couteau Suisse pour programmeurs.
+
+- Naviguez le site [https://devtoys.app/download](https://devtoys.app/download)
+- Cherchez la section "Classic Installer" et cliquez sur le bouton "x64"
+
+![Site DevToys](img/devtoys_site_01.png)
+
+- Si une fenêtre bleue s'affiche, cliquez sur "Informations complémentaires", puis sur "Exécuter quand même"
+- Suivez les instructions et optez pour les valeurs par défaut
 
 [Retour à la page principale](README.md)
