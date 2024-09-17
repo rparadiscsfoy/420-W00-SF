@@ -26,7 +26,7 @@ Les objectifs de cette étape sont :
 
 ## Exercice 2 - Configurez votre client Git
 
-- [Lancez un invite de commande](LIGNE_COMMANDE.md) ou l'application "Windows Terminal"
+- [Lancez un invite de commande](LIGNE_COMMANDE.md) ou l'application [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701?ocid=pdpshare)
 
 ![Lancement application Windows Terminal](./img/vm_Windows_Terminal.png)
 
@@ -53,4 +53,3 @@ git config --global core.editor "code --wait"
 - Validez que vous avez bien configuré votre client git avec la commande ```git config --list```. Si les informations sont incorrectes, vous devrez les corriger en retapant les commandes précédentes.
 
 ![Validation de la configuration](img/vm_configuration_git.png)
-
