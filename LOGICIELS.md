@@ -60,13 +60,13 @@ Une fois l'installation de Visual Studio 2022 lancée, rendez-vous à [cette sec
 ## Exercice 3 - Installation de Dotnet 8.0
 
 - Naviguez le site [https://dotnet.microsoft.com](https://dotnet.microsoft.com)
-- Cliquez sur le bouton "Download"
+- Cliquez sur le bouton "Télécharger"
 
 ![Site dotnet](img/dotnet_site_01.png)
 
 
-- Repérez la version "Long Term Support" 8.0
-- Choisissez le lien ".NET SDK x64"
+- Repérez la version "Prise en charge à long terme" de .NET 8.0
+- Cliquez sur "Télécharger le SDK .NET x64"
 
 ![image](img/dotnet_site_02.PNG)
 
