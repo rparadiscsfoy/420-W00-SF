@@ -13,7 +13,7 @@ L'objectif de ce module est de consolider ce que vous avez fait dans l'exercice 
 
 ## Exercice 2.1 - Accepter votre devoir distribué sur GitHub classroom
 
-- Accédez au site à l'URL suivant : [https://classroom.github.com/a/26gde675](À MODIFIER)
+- Accédez au site à l'URL suivant : [https://classroom.github.com/a/EeENRq-a](https://classroom.github.com/a/EeENRq-a)
 - Acceptez le travail proposé en cliquant sur "Accept this assignment"
 - Si vous voulez des instructions plus détaillées, référez-vous aux [exercices précédents](EXERCICES01.md). N'hésitez pas à demander de l'aide !
 
@@ -31,6 +31,6 @@ L'objectif de ce module est de consolider ce que vous avez fait dans l'exercice 
 - Faites un double clic sur le fichier "PremierProgramme.sln"
 - Faites l'exercice proposé dans le fichier "README.md". Je vous conseille de lire ce fichier à partir de votre navigateur web à partir de votre dépôt sur le site de GitHub.
 
-**Si vous êtes arrivé ici, bravo ! Vous avez fait des modifications à votre premier code et vous les avez transmises en ligne! Si vous avez des questions supplémentaires, n'hésitez pas à les poser à l'enseignant !**
+**Si vous êtes arrivé ici, bravo ! Vous avez fait des modifications à votre premier code, vous les avez transmises en ligne et vous avez utilisé des tests automatisés afin d'effectuer une première validation sur votre travail! Si vous avez des questions supplémentaires, n'hésitez pas à les poser à l'enseignant !**
 
 [Retour à la page principale](README.md)
