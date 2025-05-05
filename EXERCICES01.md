@@ -12,7 +12,7 @@ L'objectif de ce module est de vous familiariser avec l'utilisation de Git et Gi
 
 ## Exercice 1.1 - Accepter votre premier devoir distribué sur GitHub classroom
 
-- Accédez au site à l'URL suivant : [https://classroom.github.com/a/UR43Pm_T](https://classroom.github.com/a/kCTy37AX)
+- Accédez au site à l'URL suivant : [https://classroom.github.com/a/kCTy37AX](https://classroom.github.com/a/kCTy37AX)
 - À votre première connexion, GitHub Classroom va vous demander l'autorisation d'accéder à votre compte GitHub : cliquez sur "Authorize GitHub Classroom". Si vous n'étiez pas authentifié, il faudra préalablement vous connecter à votre compte GitHub.
 
 ![Authoriser GitHub Classroom à utiliser votre compte GitHub](img/autoriser_auth_github_githubclassroom.png)
@@ -93,8 +93,8 @@ L'objectif de ce module est de vous familiariser avec l'utilisation de Git et Gi
 
 ![Rafraîchissement de la page](img/github_depot_etudiant_apres_modification.png)
 
-**Si vous êtes arrivé ici, bravo ! Vous avez fait votre première modification sur votre dépôt de travail et vous les avez transmises en ligne ! Vous pouvez lever la main pour valider et vérifier avec l'enseignant que tout fonctionne bien !**
-
 Sans le savoir vous avez réalisé plusieurs actions dans Git : clone, add, commit, pull, push qui seront détaillées durant votre parcours de formation.
+
+**Si vous êtes arrivé ici, bravo ! Vous avez fait votre première modification sur votre dépôt de travail et vous les avez transmises en ligne ! Vous pouvez lever la main pour valider et vérifier avec l'enseignant que tout fonctionne bien !**
 
 [Retour à la page principale](README.md)
