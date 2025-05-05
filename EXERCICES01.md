@@ -12,7 +12,7 @@ L'objectif de ce module est de vous familiariser avec l'utilisation de Git et Gi
 
 ## Exercice 1.1 - Accepter votre premier devoir distribué sur GitHub classroom
 
-- Naviguez l'URL : [https://classroom.github.com/a/UR43Pm_T](https://classroom.github.com/a/UR43Pm_T)
+- Accédez au site à l'URL suivant : [https://classroom.github.com/a/UR43Pm_T](https://classroom.github.com/a/kCTy37AX)
 - À votre première connexion, GitHub Classroom va vous demander l'autorisation d'accéder à votre compte GitHub : cliquez sur "Authorize GitHub Classroom". Si vous n'étiez pas authentifié, il faudra préalablement vous connecter à votre compte GitHub.
 
 ![Authoriser GitHub Classroom à utiliser votre compte GitHub](img/autoriser_auth_github_githubclassroom.png)
@@ -93,42 +93,8 @@ L'objectif de ce module est de vous familiariser avec l'utilisation de Git et Gi
 
 ![Rafraîchissement de la page](img/github_depot_etudiant_apres_modification.png)
 
-**Si vous êtes arrivé ici, bravo ! Vous avez fait votre première modification sur votre dépôt de travail !**
+**Si vous êtes arrivé ici, bravo ! Vous avez fait votre première modification sur votre dépôt de travail et vous les avez transmises en ligne ! Vous pouvez lever la main pour valider et vérifier avec l'enseignant que tout fonctionne bien !**
 
 Sans le savoir vous avez réalisé plusieurs actions dans Git : clone, add, commit, pull, push qui seront détaillées durant votre parcours de formation.
-
-## Exercice 1.4 - Valider votre travail
-
-- Rendez-vous sur le site web de GitHub et rendez-vous sur la page de votre dépôt de travail
-- Rendez-vous sur l'onglet "Actions"
-
-![Onglet "Actions"](img/github_validation_reussite_01.png)
-
-- Choisissez l'exécution la plus récente qui est représentée par la première ligne de la liste "x workflow runs". 
-- Dans mon cas, la dernière exécution est en erreur. Allons voir ce qui c'est passé en cliquant sur cette ligne
-
-![Onglet "Actions"](img/github_validation_reussite_02.png)
-
-- La tâche "Autograding" est en erreur. Vous pouvez voir ce qui a été fait en cliquant sur cette ligne
-
-![Onglet "Actions"](img/github_validation_reussite_03.png)
-
-- Une des étapes de validation n'est pas passée. Ici on voit que je n'ai pas coché la case "Votre ordinateur personnel"
-
-![Onglet "Actions"](img/github_validation_reussite_04.png)
-
-- Après avoir modifié le fichier README.md dans Visual Studio et avoir cliqué sur le bouton "Valider tout et synchroniser", le test passe dans mon cas.
-
-![Onglet "Actions"](img/github_validation_reussite_05.png)
-
-- Comme précédemment, on peut regarder le détail en cliquant sur "Autograding"
-
-![Onglet "Actions"](img/github_validation_reussite_06.png)
-
-- Vous pouvez voir que les différents tests validés en cliquant sur "Autograding"
-
-![Onglet "Actions"](img/github_validation_reussite_07.png)
-
-**Si vous êtes arrivé ici, bravo ! Vous avez fait des modifications à votre travail et vous avez utilisé des tests automatisés afin d'effectuer une première validation sur votre travail ! Pour les autres validations n'oubliez pas d'impliquer votre enseignant !**
 
 [Retour à la page principale](README.md)
